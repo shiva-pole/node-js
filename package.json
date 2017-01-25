@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-training",
+  "version": "1.0.0",
+  "description": "node.js training",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shiva-pole/nodejs-training.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "shiva",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
